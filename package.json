@@ -13,5 +13,8 @@
     "chai"
   ],
   "author": "Ujjawal kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
